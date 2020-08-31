@@ -25,7 +25,7 @@ SECRET_KEY = 'inyl==^=9fr10%5a=ud)^b^4rlj5d2^s0^+%l$%yzzc%pd9m3%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
